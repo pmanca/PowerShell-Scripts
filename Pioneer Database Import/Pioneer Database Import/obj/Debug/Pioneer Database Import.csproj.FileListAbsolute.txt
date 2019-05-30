@@ -1,0 +1,5 @@
+M:\Powershell\Pioneer Database Import\Pioneer Database Import\obj\Debug\Pioneer Database Import.csprojResolveAssemblyReference.cache
+M:\Powershell\Pioneer Database Import\Pioneer Database Import\bin\Debug\Pioneer Database Import.dll
+M:\Powershell\Pioneer Database Import\Pioneer Database Import\bin\Debug\Pioneer Database Import.pdb
+M:\Powershell\Pioneer Database Import\Pioneer Database Import\obj\Debug\Pioneer Database Import.dll
+M:\Powershell\Pioneer Database Import\Pioneer Database Import\obj\Debug\Pioneer Database Import.pdb

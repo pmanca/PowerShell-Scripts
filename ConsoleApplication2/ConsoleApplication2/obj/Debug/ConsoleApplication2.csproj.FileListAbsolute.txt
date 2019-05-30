@@ -1,0 +1,6 @@
+M:\Powershell\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+M:\Powershell\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+M:\Powershell\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+M:\Powershell\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+M:\Powershell\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+M:\Powershell\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

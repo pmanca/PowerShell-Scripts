@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy remotesigned -File M:\Powershell\WWVendorMasterUpdateSVC.ps1
